@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NagPacer</string>
+<string-array name="numbers">
+    <item>1</item>
+    <item>5</item>
+    <item>10</item>
+    <item>15</item>
+    <item>30</item>
+    <item>60</item>
+</string-array>
+</resources>
